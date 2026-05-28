@@ -1,3 +1,8 @@
 <Solution>
-  <Project Path="API/API.csproj" />
+  <Project Path="Domain/Domain.csproj" Id="9a34c7ae-7fab-4f43-a5c7-8f6e062c595d" />
+  <Project Path="Client/Client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="Server/Server.csproj" Id="468b1a75-1482-449f-a380-fccec489778a" />
 </Solution>

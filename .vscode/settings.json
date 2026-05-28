@@ -1,0 +1,8 @@
+{
+    "dataworkspace.excludedProjects": [
+        "MOLEX-interview-todoapp/MOLEX-Interview-Todoapp/MOLEX-Interview-Todoapp.sqlproj",
+        "MOLEX-todoapp-interview/MOLEX-todoapp-interview.sqlproj",
+        "Database/Database.sqlproj",
+        "MOLEX-interview-todoapp/MOLEX-interview-todoapp.Database/MOLEX-interview-todoapp.Database.sqlproj"
+    ]
+}

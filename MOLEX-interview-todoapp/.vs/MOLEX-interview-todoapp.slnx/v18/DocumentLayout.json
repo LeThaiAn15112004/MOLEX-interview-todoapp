@@ -1,7 +1,68 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A34C7AE-7FAB-4F43-A5C7-8F6E062C595D}|Domain\\Domain.csproj|c:\\users\\admin\\documents\\github\\molex-interview-todoapp\\molex-interview-todoapp\\domain\\dbconfig\\todoappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A34C7AE-7FAB-4F43-A5C7-8F6E062C595D}|Domain\\Domain.csproj|solutionrelative:domain\\dbconfig\\todoappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A34C7AE-7FAB-4F43-A5C7-8F6E062C595D}|Domain\\Domain.csproj|c:\\users\\admin\\documents\\github\\molex-interview-todoapp\\molex-interview-todoapp\\domain\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A34C7AE-7FAB-4F43-A5C7-8F6E062C595D}|Domain\\Domain.csproj|solutionrelative:domain\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A34C7AE-7FAB-4F43-A5C7-8F6E062C595D}|Domain\\Domain.csproj|c:\\users\\admin\\documents\\github\\molex-interview-todoapp\\molex-interview-todoapp\\domain\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A34C7AE-7FAB-4F43-A5C7-8F6E062C595D}|Domain\\Domain.csproj|solutionrelative:domain\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A34C7AE-7FAB-4F43-A5C7-8F6E062C595D}|Domain\\Domain.csproj|c:\\users\\admin\\documents\\github\\molex-interview-todoapp\\molex-interview-todoapp\\domain\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A34C7AE-7FAB-4F43-A5C7-8F6E062C595D}|Domain\\Domain.csproj|solutionrelative:domain\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC3FCCF-9129-207D-CAD8-1B96C9FA47E2}|Client\\Client.esproj|c:\\users\\admin\\documents\\github\\molex-interview-todoapp\\molex-interview-todoapp\\client\\src\\todo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{5DC3FCCF-9129-207D-CAD8-1B96C9FA47E2}|Client\\Client.esproj|solutionrelative:client\\src\\todo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC3FCCF-9129-207D-CAD8-1B96C9FA47E2}|Client\\Client.esproj|c:\\users\\admin\\documents\\github\\molex-interview-todoapp\\molex-interview-todoapp\\client\\src\\todo.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{5DC3FCCF-9129-207D-CAD8-1B96C9FA47E2}|Client\\Client.esproj|solutionrelative:client\\src\\todo.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{468B1A75-1482-449F-A380-FCCEC489778A}|Server\\Server.csproj|c:\\users\\admin\\documents\\github\\molex-interview-todoapp\\molex-interview-todoapp\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{468B1A75-1482-449F-A380-FCCEC489778A}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MOLEX-interview-todoapp.Server\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Server\\Controllers\\TodosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MOLEX-interview-todoapp.Server\\Controllers\\TodosController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Domain\\Repositories\\TodoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MOLEX-interview-todoapp.Domain\\Repositories\\TodoRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Domain\\DBconfig\\TodoAppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MOLEX-interview-todoapp.Domain\\DBconfig\\TodoAppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Domain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MOLEX-interview-todoapp.Domain\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Domain\\Models\\Todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MOLEX-interview-todoapp.Domain\\Models\\Todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\molex-interview-todoapp.client\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:molex-interview-todoapp.client\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\molex-interview-todoapp.client\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:molex-interview-todoapp.client\\src\\App.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 190,
           "Children": [
             {
               "$type": "Bookmark",
@@ -770,6 +831,189 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Domain\\DBconfig\\TodoAppDbContext.cs",
+              "RelativeDocumentMoniker": "Domain\\DBconfig\\TodoAppDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Domain\\DBconfig\\TodoAppDbContext.cs",
+              "RelativeToolTip": "Domain\\DBconfig\\TodoAppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T16:08:57.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Domain\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Domain\\Models\\Todo.cs",
+              "RelativeToolTip": "Domain\\Models\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T16:08:19.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Domain\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Domain\\Models\\Item.cs",
+              "RelativeToolTip": "Domain\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T16:08:13.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Domain\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Repositories\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Domain\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "Domain\\Repositories\\TodoRepository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADgv1QAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T16:04:51.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "todo.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Client\\src\\todo.css",
+              "RelativeDocumentMoniker": "Client\\src\\todo.css",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Client\\src\\todo.css",
+              "RelativeToolTip": "Client\\src\\todo.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-28T15:52:22.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "todo.tsx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Client\\src\\todo.tsx",
+              "RelativeDocumentMoniker": "Client\\src\\todo.tsx",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Client\\src\\todo.tsx",
+              "RelativeToolTip": "Client\\src\\todo.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-28T15:44:00.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T15:04:57.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Server\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "MOLEX-interview-todoapp.Server\\Controllers\\TodosController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Server\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "MOLEX-interview-todoapp.Server\\Controllers\\TodosController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:22:01.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Domain\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "MOLEX-interview-todoapp.Domain\\Repositories\\TodoRepository.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Domain\\Repositories\\TodoRepository.cs",
+              "RelativeToolTip": "MOLEX-interview-todoapp.Domain\\Repositories\\TodoRepository.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T14:06:54.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Domain\\DBconfig\\TodoAppDbContext.cs",
+              "RelativeDocumentMoniker": "MOLEX-interview-todoapp.Domain\\DBconfig\\TodoAppDbContext.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Domain\\DBconfig\\TodoAppDbContext.cs",
+              "RelativeToolTip": "MOLEX-interview-todoapp.Domain\\DBconfig\\TodoAppDbContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T13:25:56.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Server\\Program.cs",
+              "RelativeDocumentMoniker": "MOLEX-interview-todoapp.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Server\\Program.cs",
+              "RelativeToolTip": "MOLEX-interview-todoapp.Server\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T12:19:28.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Domain\\appsettings.json",
+              "RelativeDocumentMoniker": "MOLEX-interview-todoapp.Domain\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Domain\\appsettings.json",
+              "RelativeToolTip": "MOLEX-interview-todoapp.Domain\\appsettings.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-28T13:13:31.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Domain\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "MOLEX-interview-todoapp.Domain\\Models\\Todo.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp.Domain\\Models\\Todo.cs",
+              "RelativeToolTip": "MOLEX-interview-todoapp.Domain\\Models\\Todo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-28T12:20:30.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\molex-interview-todoapp.client\\src\\App.css",
+              "RelativeDocumentMoniker": "molex-interview-todoapp.client\\src\\App.css",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\molex-interview-todoapp.client\\src\\App.css",
+              "RelativeToolTip": "molex-interview-todoapp.client\\src\\App.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-05-28T12:12:48.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.tsx",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\molex-interview-todoapp.client\\src\\App.tsx",
+              "RelativeDocumentMoniker": "molex-interview-todoapp.client\\src\\App.tsx",
+              "ToolTip": "C:\\Users\\ADMIN\\Documents\\GitHub\\MOLEX-interview-todoapp\\MOLEX-interview-todoapp\\molex-interview-todoapp.client\\src\\App.tsx",
+              "RelativeToolTip": "molex-interview-todoapp.client\\src\\App.tsx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-05-28T12:11:21.616Z"
             },
             {
               "$type": "Bookmark",
